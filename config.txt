@@ -1,6 +1,6 @@
-owner=518645153678753813
+owner=535564628982497290
 prefix=2
-game=BL | 2play
+game=Kings | 2play
 stayinchannel=true
 songinstatus=false
 token=NTg1OTM1NDkzODcxNDM1ODgw.XPgs-A.swmlLC0AFSt4bl7DUueuD6mpqM0
